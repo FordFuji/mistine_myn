@@ -1,0 +1,14 @@
+2020.05.19
+product_inside
+มี 
+1. Weight
+2. Color
+3. Collection
+
+ตรง
+
+Note
+สาเหตุ คือ ราคาสินค้าอยู่ตาม Weight, Color, Collection
+
+1. หน้า index สินค้า ถ้าสั่งซื้อ จะได้ Weight, Color, Collection หรือ ราคาไหนไปก่อน
+2. ราคาสินค้าจะเอาอันไหนขึ้นก่อน

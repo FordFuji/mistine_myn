@@ -1,0 +1,8 @@
+diff a/.htaccess b/.htaccess	(rejected hunks)
+@@ -1,5 +1,5 @@
+ RewriteEngine On
+-RewriteBase /mistine_myn/
++RewriteBase /mistine_myn1/
+ 
+ php_value upload_max_filesize 100M
+ php_value post_max_size 100M

@@ -1,0 +1,43 @@
+Domain และ Host ของ ประเทศพม่า
+ 
+domain : mistinemyanmar.com.mm
+--------------------------------------------------
+host : https://cpanel.mistine-myanmar.com
+user : mistinemyanmar
+pass: M15t1nemy@nm@r
+ 
+Domain และ Host ของ ประเทศกัมพูชา
+ 
+domain : mistinecambodia.com
+--------------------------------------------------
+host : https://cpanel.mistinecambodia.com
+user : mistinecambodia
+pass: mtC@007
+ 
+SMTP ของ ประเทศพม่า
+Username:  noreply@mistine-myanmar.com
+Password: vVATtug4(7(W
+
+SMTP ของ ประเทศกัมพูชา
+Username: noreply@mistinecambodia.com
+Password: VCK9fJ$rm@2Y
+ 
+    Manual Settings
+        Secure SSL/TLS Settings
+            Outgoing Server:
+                                        mail.mistinecambodia.com
+                                        SMTP Port: 465
+        Non-SSL Settings
+            Outgoing Server:
+                                        mail.mistinecambodia.com
+                                        SMTP Port: 587
+ 
+    Manual Settings
+        Secure SSL/TLS Settings
+            Outgoing Server:
+                                        mail.mistine-myanmar.com
+                                        SMTP Port: 465
+        Non-SSL Settings
+            Outgoing Server:
+                                        mail.mistine-myanmar.com
+                                        SMTP Port: 587
