@@ -1,8 +1,0 @@
-ci_wishlist
-wishlist_id, member_id, product_id, wishlist_datetime_create, wishlist_ip_create
-
-ci_order
-order_id, order_detail_id, product_id, order_name, order_code, order_qty, order_price, order_total
-
-ci_order_detail
-order_detail_id, order_no, order_detail_sub_total, order_detail_shipping, order_detail_discount, order_detail_total, order_detail_shipping_method, order_detail_payment_method, order_detail_status, order_detail_shipping_name, order_detail_shipping_last_name, order_detail_shipping_phone, order_detail_shipping_email, order_detail_shipping_address, order_detail_shipping_sub_district, order_detail_shipping_district, order_detail_shipping_province, order_detail_shipping_postal_code, order_detail_datetime_create, order_detail_ip_create, order_detail_datetime_update, order_detail_ip_create

@@ -1,1 +1,0 @@
-ci_banner_slide, ci_cancel, ci_check_order, ci_contact, ci_coupon, ci_member, ci_member_billing, ci_member_shipping_address, ci_member_shipping_address2, ci_order, ci_order_detail, ci_payment, ci_return, ci_wishlist
